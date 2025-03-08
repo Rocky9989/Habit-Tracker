@@ -3,7 +3,7 @@
   
   Quotes are fetched using following api: https://dummyjson.com/quotes
   <br>
-  Go Live to [https://rocky9989.github.io/Habit-Tracker)
+  Go Live to [https://Rocky9989.github.io/Habit-Tracker)
 
 # Features:
   - Add Multiple habits to your habit list.
