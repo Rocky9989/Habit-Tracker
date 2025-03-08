@@ -1,9 +1,9 @@
 # Habit Tracker Project
   This is a habit tracker project of Coding Ninjas made using Reactjs, Redux toolkit, React-router-dom. User can add multiple habits to their list, and can check their weekly status of habit (done, not done, pending). The following project is styled using TailwindCSS. User will get a different motivational quote on homepage every time he visit to the homepage, also a differnet image.
   
-  Quotes are fetched using following api: https://type.fit/api/quotes
+  Quotes are fetched using following api: https://dummyjson.com/quotes
   <br>
-  Go Live to [Habit-Tracker](https://habit-tracker-rajxode.netlify.app/)
+  Go Live to [https://rocky9989.github.io/)
 
 # Features:
   - Add Multiple habits to your habit list.
